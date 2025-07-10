@@ -4,7 +4,7 @@ This is a machine learning-based web application that predicts the most suitable
 
 ## 🔗 Live Demo
 
-👉 [Click here to try the app]([https://crop-prediction7.onrender.com](https://crop-prediction-11-vj69.onrender.com/))
+👉 [Click here to try the app](https://crop-prediction-11-vj69.onrender.com)
 
 ## 💡 Features
 
